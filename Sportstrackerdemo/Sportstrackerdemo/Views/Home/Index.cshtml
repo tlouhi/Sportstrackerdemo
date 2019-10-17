@@ -1,0 +1,127 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    int i = 0;
+}
+@using System.Globalization;
+@using System;
+
+
+<h1>Pyöräilyharjoituksia: </h1>
+<div class="container">
+    <a href="/Home/Kuvat"><img src="~/img/murskaamo.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/fillari.jpeg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/maki.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva1.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva12.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva15.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva4.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva9.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva7.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva18.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva19.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva8.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva10.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva11.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva12.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva13.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva16.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva17_v.jpg" height="100"></a>
+    <a href="/Home/Kuvat"><img src="~/img/kuva7.jpg" height="100"></a>
+</div>
+
+<h1>Harjoitusten yhteenvedot vuosittain: </h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Vuosi</th>
+            <th>Harjoituksia <br>lkm/vuosi</th>
+            <th>Kokonaiskesto<br>p.t:m:s</th>
+            <th>Kestojen <br> keskiarvo</th>
+            <th>Kokonaismatka <br>km</th>
+            <th>Keskinopeuksien <br> keskiarvo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in ViewBag.vuodet)
+        {
+            i = 0;
+            decimal kokonopeus = 0;
+            decimal totmatka = 0;
+            TimeSpan kokoaika = TimeSpan.Zero;
+            //lasketaan kokonaisaika, matka ja keskinopeuksien keskiarvo silmukassa
+            foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Kaikkiharjoitukset)
+            {
+                if (h.Vuosi == v)
+                {
+                    i++;
+                    kokonopeus += h.Keskinopeus;
+                    kokoaika += h.Kesto;
+                    totmatka += h.Matka;
+                }
+            }
+            //lasketaan ja lisätään yhteenvetotietoa
+            decimal nopeuska = Math.Round(kokonopeus / i, 2);
+            TimeSpan ka = kokoaika / i;
+            string keskiarvo = ka.ToString(@"h\:mm\:s");
+        <tr>
+            <td>@v</td>
+            <td>@i kpl</td>
+            <td>@kokoaika p.t:m:s</td>
+            <td>@keskiarvo t:m:s</td>
+            <td>@totmatka km</td>
+            <td>@nopeuska km/h</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+    <h2>Kaikki tiedostosta luetut harjoitukset aikajärjestyksessä uusimmasta vanhimpaan: </h2>
+    <h4>Klikkaa harjoituksen nimeä nähdäksesi reitin yhteenvedon.</h4>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th> # </th>
+                <th>Reitti</th>
+                <th>PVM</th>
+                <th>Kesto</th>
+                <th>Matka</th>
+                <th>Keskinopeus</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td><b>Harjoituksia yhteensä: <br>@ViewBag.lkm kappaletta</b></td>
+                <td></td>
+                <td><b>Kaikki yhteensä = <br>@ViewBag.Kokoaika päivää.t:m:s</b></td>
+                <td><b>Kaikki yhteensä = <br>@ViewBag.Totmatka km</b></td>
+                <td><b>Kaikkien keskiarvo = <br>@ViewBag.keskinopeuska km/h</b></td>
+            </tr>
+
+            @{
+                i = 0;
+                //Luodaan rivi jokaiselle harjotukselle
+                foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Kaikkiharjoitukset)
+                {
+                    i = i + 1;
+                    <tr>
+                        <td>@i</td>
+                        <td><a href="Home/Reitit#@(h.Nimi)">@h.Nimi</a></td>
+                        <td>@h.Päiväys</td>
+                        <td>@h.Kesto t:m:s</td>
+                        <td>@h.Matka km</td>
+                        <td>@h.Keskinopeus km</td>
+                    </tr>
+                }
+            }
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><b>Kokonaisaika = <br>@ViewBag.Kokoaika vrk.t:m:s</b></td>
+                <td><b>Kokonaismatka = <br>@ViewBag.Totmatka km</b></td>
+                <td><b>Kaikkien keskiarvo = <br>@ViewBag.keskinopeuska km/h</b></td>
+            </tr>
+        </tbody>
+    </table>

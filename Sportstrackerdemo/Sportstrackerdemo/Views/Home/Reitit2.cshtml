@@ -1,0 +1,151 @@
+﻿@{
+    ViewData["Title"] = "Harjoitukset reiteittäin";
+    int i = 0; 
+}
+@using System.IO;
+
+
+<h1>Kaikki harjoitukset reiteittäin:</h1>
+<h4>Voit klikata kuvaa avataksesi sen isompana uuteen ikkunaan</h4>
+
+<!-- Luodaan taulukko kullekin löytyneelle reitille -->
+@foreach (var reitti in ViewBag.Reitit)
+{
+    decimal kokonopeus = 0;
+    decimal totmatka = 0;
+    TimeSpan kokoaika = TimeSpan.Zero;
+    TimeSpan ka = TimeSpan.Zero;
+    String keskiarvo = "";
+    decimal nopeuska = 0;
+    <p>&nbsp;</p>
+    <a name="@reitti"></a>
+    <h1>@reitti</h1>
+    
+    <h2>Yhteenveto vuosittain</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Vuosi</th>
+                <th>lkm</th>
+                <th>Kokonaiskesto</th>
+                <th>Kestojen <br> keskiarvo</th>
+                <th>Kokonaismatka</th>
+                <th>Keskinopeuksien <br> keskiarvo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var v in ViewBag.vuodet)
+            {
+                i = 0;
+                kokonopeus = 0;
+                totmatka = 0;
+                kokoaika = TimeSpan.Zero;
+                //lasketaan kokonaisaika, matka ja keskinopeuksien keskiarvo
+                foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Kaikkiharjoitukset)
+                {
+                    if (h.Vuosi == v && h.Nimi == @reitti)
+                    {
+                        i++;
+                        kokonopeus += h.Keskinopeus;
+                        kokoaika += h.Kesto;
+                        totmatka += h.Matka;
+                    }
+                }
+                //lasketaan ja lisätään yhteenvetotietoa ja tarkistetaan ettei  yritetä jakaa nollalla
+                if (i > 0) 
+                { 
+                nopeuska = Math.Round(kokonopeus / i, 2);
+                ka = kokoaika / i;
+                keskiarvo = ka.ToString(@"h\:mm\:s");
+                <tr>
+                    <td>@v</td>
+                    <td>@i</td>
+                    <td>@kokoaika p.t:m:s</td>
+                    <td>@keskiarvo t:m:s</td>
+                    <td>@totmatka km</td>
+                    <td>@nopeuska km/h</td>
+                </tr>
+                }
+            }
+        </tbody>
+    </table>
+        <h2 style="display:inline;">Kaikki harjoitukset reitillä @reitti</h2>
+    <p style="display:inline;">
+        (Voit klikata reitin kuvaa avataksesi sen isompana uuteen ikkunaan.)
+    </p>
+        <table>
+            <tr>
+                <td>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th><h4> # </h4></th>
+                                <th><h4> PVM</h4></th>
+                                <th><h4> Kesto</h4></th>
+                                <th><h4> Matka</h4></th>
+                                <th><h4> Keskinopeus</h4></th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{
+                                i = 0;
+                                kokonopeus = 0;
+                                totmatka = 0;
+                                kokoaika = TimeSpan.Zero;
+                                //näytetään kyseisen reitin kaikki harjoitukset ja lasketaan samalla kertymiä silmukan pyöriessä
+                                foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Kaikkiharjoitukset)
+                                {
+                                    if (h.Nimi == @reitti)
+                                    {
+                                        i++;
+                                        <tr>
+                                            <td>@i</td>
+                                            <td>@h.Päiväys</td>
+                                            <td>@h.Kesto t:m:s</td>
+                                            <td>@h.Matka km</td>
+                                            <td>@h.Keskinopeus km/h</td>
+                                        </tr>
+                                        kokonopeus += h.Keskinopeus;
+                                        kokoaika += h.Kesto;
+                                        totmatka += h.Matka;
+                                    }
+                                }
+                                //lasketaan ja lisätään yhteenvetotietoa
+                                nopeuska = Math.Round(kokonopeus / i, 2);
+                                ka = kokoaika / i;
+                                keskiarvo = ka.ToString(@"h\:mm\:s");
+
+                                //näytetään yhteenvedot vain, jos harjoituksia enemmän kuin 1
+                                if (i > 1)
+                                {
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td>
+                                            <b>
+                                                Tot: @kokoaika t:m:s<br>
+                                                k.a: @keskiarvo
+                                            </b>
+                                        </td>
+                                        <td><b>Tot: @totmatka km</b></td>
+                                        <td><b>k.a: @nopeuska km/h</b></td>
+                                    </tr>
+                                }
+                            }
+
+                        </tbody>
+                    </table>
+                </td>
+                <td>
+                    @if (File.Exists("wwwroot/img/" + reitti + ".png"))
+                    {
+                        <img src="~/img/@(reitti).png" height="200" onclick="window.open('/img/@(reitti).png', '_blank')">
+                    }
+                    else
+                    {
+                        <p> Kuvaa ei<br>saatavilla </p>
+                    }
+                </td>
+        </table>
+        }

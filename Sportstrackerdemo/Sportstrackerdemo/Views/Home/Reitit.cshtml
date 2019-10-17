@@ -1,0 +1,164 @@
+﻿@{
+    ViewData["Title"] = "Reitit yhteenveto";
+    int i = 0;
+}
+@using System.IO;
+<h1>@ViewData["Title"]</h1>
+
+<h1>Kaikkien reittien max. 5 viimeisintä ja 5 nopeinta:</h1>
+
+<!-- Luodaan taulukko kullekin löytyneelle reitille -->
+@foreach (var reitti in ViewBag.Reitit)
+{
+    <a name="@reitti"></a>
+    <h1 style="display:inline;"><a href="/Home/Reitit2#@(reitti)">@reitti</a></h1>
+    <p style="display:inline;">
+        (Klikkaa reitin nimeä nähdäksesi kaikki reitin harjoitukset.
+        Voit myös klikata reitin kuvaa avataksesi sen isompana uuteen ikkunaan.)
+    </p>
+    <table>
+
+        <tr>
+            <td><h3>Max. 5 Viimeisintä</h3></td>
+            <td><h3>Reittikuva</h3></td>
+            <td><h3>Max. 5 Nopeinta</h3></td>
+        </tr>
+        <tr>
+            <td>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th><h4> # </h4></th>
+                            <th><h4> PVM</h4></th>
+                            <th><h4> Kesto</h4></th>
+                            <th><h4> Matka</h4></th>
+                            <th><h4> Keskinopeus</h4></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            i = 0;
+                            decimal kokonopeus = 0;
+                            decimal totmatka = 0;
+                            TimeSpan kokoaika = TimeSpan.Zero;
+                            //näytetään 5 viimesintä harjoitusta kyseisellä reitillä lasketaan samalla kertymiä silmukan pyöriessä
+                            foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Kaikkiharjoitukset)
+                            {
+                                if (h.Nimi == @reitti && i < 5)
+                                {
+                                    i++;
+                                    <tr>
+                                        <td>@i</td>
+                                        <td>@h.Päiväys</td>
+                                        <td>@h.Kesto t:m:s</td>
+                                        <td>@h.Matka km</td>
+                                        <td>@h.Keskinopeus km</td>
+                                    </tr>
+                                    kokonopeus += h.Keskinopeus;
+                                    kokoaika += h.Kesto;
+                                    totmatka += h.Matka;
+                                }
+                            }
+                            //lasketaan ja lisätään yhteenvetotietoa
+                            decimal nopeuska = Math.Round(kokonopeus / i, 2);
+                            TimeSpan ka = kokoaika / i;
+                            string keskiarvo = ka.ToString(@"h\:mm\:s");
+
+                            //näytetään yhteenvedot vain, jos harjoituksia enemmän kuin 1
+                            if (i > 1)
+                            {
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td>
+                                        <b>
+                                            Tot: @kokoaika<br>
+                                            k.a: @keskiarvo
+                                        </b>
+                                    </td>
+                                    <td><b>Tot: @totmatka km</b></td>
+                                    <td><b>k.a:<br> @nopeuska km/h</b></td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </td>
+            <td>
+                @if (File.Exists("wwwroot/img/" + reitti + ".png"))
+                {
+                    <img src="~/img/@(reitti).png" height="200" onclick="window.open('/img/@(reitti).png', '_blank')">
+                }
+                else
+                {
+                    <p> Kuvaa ei<br>saatavilla </p>
+                }
+            </td>
+            <td>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th><h4> #</h4></th>
+                            <th><h4> PVM</h4></th>
+                            <th><h4> Kesto</h4></th>
+                            <th><h4> Matka</h4></th>
+                            <th><h4> Keskinopeus</h4></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            i = 0;
+                            kokonopeus = 0;
+                            totmatka = 0;
+                            kokoaika = TimeSpan.Zero;
+                            //näytetään 5 nopeinta harjoitusta kyseisellä reitillä lasketaan samalla kertymiä silmukan pyöriessä
+                            foreach (Sportstrackerdemo.Models.Harjoitus h in ViewBag.Nopeimmat)
+                            {
+                                if (h.Nimi == @reitti && i < 5)
+                                {
+                                    i++;
+                                    <tr>
+                                        <td>@i</td>
+                                        <td>@h.Päiväys</td>
+                                        <td>@h.Kesto t:m:s</td>
+                                        <td>@h.Matka km</td>
+                                        <td>@h.Keskinopeus km/h</td>
+                                    </tr>
+                                    kokonopeus += h.Keskinopeus;
+                                    kokoaika += h.Kesto;
+                                    totmatka += h.Matka;
+                                }
+                            }
+                            //lasketaan ja lisätään yhteenvetotietoa
+                            nopeuska = Math.Round(kokonopeus / i, 2);                           
+                            ka = kokoaika / i;
+                            keskiarvo = ka.ToString(@"h\:mm\:s");
+                            //näytetään yhteenvedot vain, jos harjoituksia enemmän kuin 1
+                            if (i > 1)
+                            {
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td>
+                                        <b>
+                                            Tot: @kokoaika<br>
+                                            k.a: @keskiarvo
+                                        </b>
+                                    </td>
+                                    <td><b>Tot: @totmatka km</b></td>
+                                    <td><b>k.a:<br> @nopeuska km/h</b></td>
+                                </tr>
+                            }
+
+                        }
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <h1>    </h1>
+    <h2>    </h2>
+    <h2>    </h2>
+}
+

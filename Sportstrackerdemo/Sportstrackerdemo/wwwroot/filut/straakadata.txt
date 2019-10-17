@@ -1,0 +1,443 @@
+Santaoja Oct 13, 201901:19:2324.14 km18.3 km/h3:17/km0 bpm 980 kcal0 rpm
+Santaoja 8 Oct 11, 201901:14:5524.16 km19.3 km/h3:06/km0 bpm 979 kcal0 rpm
+Santaoja Oct 8, 201901:17:1124.19 km18.8 km/h3:11/km0 bpm 987 kcal0 rpm
+Santaoja Oct 1, 201901:20:3424.08 km17.9 km/h3:20/km0 bpm 987 kcal0 rpm
+Santaoja 8 Sep 29, 201901:15:3524.27 km19.3 km/h3:06/km0 bpm 984 kcal0 rpm
+Santaoja Sep 25, 201901:20:3824.08 km17.9 km/h3:20/km0 bpm 985 kcal0 rpm
+Santaoja Sep 23, 201901:12:5123.97 km19.7 km/h3:02/km0 bpm 972 kcal0 rpm
+Santaoja 8 Sep 20, 201901:14:5123.93 km19.2 km/h3:07/km0 bpm 972 kcal0 rpm
+Santaoja Sep 18, 201901:14:3624.27 km19.5 km/h3:04/km0 bpm 990 kcal0 rpm
+Sade kasteli Sep 16, 201900:12:484.16 km19.5 km/h3:04/km0 bpm 171 kcal0 rpm
+Santaoja 8 Sep 14, 201901:16:5324.08 km18.8 km/h3:11/km0 bpm 982 kcal0 rpm
+Santaoja 8 Sep 8, 201901:14:2523.97 km19.3 km/h3:06/km0 bpm 972 kcal0 rpm
+Santaoja 8  Sep 6, 201901:14:1223.91 km19.3 km/h3:06/km0 bpm 980 kcal0 rpm
+Santaoja 8 Sep 4, 201901:17:1928.37 km22.0 km/h2:43/km0 bpm 1165 kcal0 rpm
+Santaoja 8 Sep 2, 201901:11:5624.27 km20.2 km/h2:57/km0 bpm 1006 kcal0 rpm
+Santaoja Aug 30, 201901:15:5123.70 km18.8 km/h3:11/km0 bpm 970 kcal0 rpm
+Salakallio 8 Aug 28, 201901:04:2420.27 km18.9 km/h3:10/km0 bpm 852 kcal0 rpm
+Santaoja Aug 26, 201901:09:3724.32 km21.0 km/h2:51/km0 bpm 1009 kcal0 rpm
+Santaoja Aug 24, 201901:11:3024.16 km20.3 km/h2:57/km0 bpm 1007 kcal0 rpm
+Viljakkala Aug 21, 201901:47:4630.39 km16.9 km/h3:32/km0 bpm 1304 kcal0 rpm
+Santaoja 8 Aug 19, 201901:15:5424.46 km19.3 km/h3:06/km0 bpm 993 kcal0 rpm
+Santaoja 8 Aug 16, 201901:15:1724.00 km19.1 km/h3:08/km0 bpm 980 kcal0 rpm
+Santaoja 8 Aug 14, 201901:17:5724.07 km18.5 km/h3:14/km0 bpm 994 kcal0 rpm
+Santaoja Aug 9, 201901:17:1824.11 km18.7 km/h3:12/km0 bpm 996 kcal0 rpm
+Santaoja Aug 7, 201901:14:2023.82 km19.2 km/h3:07/km0 bpm 980 kcal0 rpm
+Viljakkala Aug 5, 201901:48:0130.66 km17.0 km/h3:31/km0 bpm 1310 kcal0 rpm
+Santaoja Aug 2, 201901:17:4123.92 km18.5 km/h3:14/km0 bpm 985 kcal0 rpm
+Santaoja Jul 31, 201901:16:5924.75 km19.3 km/h3:06/km0 bpm 1029 kcal0 rpm
+Kirjastola Jul 17, 201900:54:3617.04 km18.7 km/h3:12/km0 bpm 707 kcal0 rpm
+Santaoja 8 Jul 15, 201901:14:3024.35 km19.6 km/h3:03/km0 bpm 990 kcal0 rpm
+Santaoja Jul 13, 201901:15:5824.60 km19.4 km/h3:05/km0 bpm 1010 kcal0 rpm
+Santaoja Jul 10, 201901:13:0524.03 km19.7 km/h3:02/km0 bpm 983 kcal0 rpm
+Viljakkala Jul 3, 201901:49:2730.86 km16.9 km/h3:32/km0 bpm 1362 kcal0 rpm
+Kirjastola m Jul 1, 201900:53:4516.81 km18.8 km/h3:11/km0 bpm 692 kcal0 rpm
+Santaoja Jun 30, 201901:16:0824.07 km19.0 km/h3:09/km0 bpm 986 kcal0 rpm
+Santaoja Jun 28, 201901:18:4423.76 km18.1 km/h3:18/km0 bpm 985 kcal0 rpm
+Viljakkala Jun 26, 201901:46:1830.18 km17.0 km/h3:31/km0 bpm 1284 kcal0 rpm
+Santaoja 8 Jun 24, 201901:15:3824.22 km19.2 km/h3:07/km0 bpm 996 kcal0 rpm
+Kirjastola m Jun 20, 201900:54:1817.44 km19.3 km/h3:06/km0 bpm 729 kcal0 rpm
+Salakallio 8 Jun 18, 201901:07:0119.33 km17.3 km/h3:27/km0 bpm 819 kcal0 rpm
+Santaoja 8 Jun 16, 201901:16:0225.08 km19.8 km/h3:01/km0 bpm 1052 kcal0 rpm
+Santaoja m8 Jun 14, 201901:17:1824.45 km19.0 km/h3:09/km0 bpm 995 kcal0 rpm
+Viljakkala Jun 12, 201901:46:3533.32 km18.8 km/h3:11/km0 bpm 1468 kcal0 rpm
+Salakallio Santaoja 8 Jun 10, 201901:26:2027.60 km19.2 km/h3:07/km0 bpm 1152 kcal0 rpm
+Kirjastola m Jun 7, 201900:55:1216.53 km18.0 km/h3:20/km0 bpm 682 kcal0 rpm
+Viljakkala Jun 5, 201901:49:0230.27 km16.7 km/h3:35/km0 bpm 1305 kcal0 rpm
+Santaoja 8 Jun 3, 201901:18:3824.54 km18.7 km/h3:12/km0 bpm 1020 kcal0 rpm
+Santaoja 8 May 31, 201901:19:5923.85 km17.9 km/h3:21/km0 bpm 1078 kcal0 rpm
+Santaoja May 24, 201901:19:5023.99 km18.0 km/h3:19/km0 bpm 974 kcal0 rpm
+Kirjastola May 22, 201900:52:5117.65 km20.1 km/h2:59/km0 bpm 835 kcal0 rpm
+Santaoja 8 May 20, 201901:15:4424.16 km19.2 km/h3:07/km0 bpm 871 kcal0 rpm
+Viljakkala May 17, 201901:52:4431.07 km16.5 km/h3:37/km0 bpm 1360 kcal0 rpm
+Santaoja May 15, 201901:18:2023.59 km18.1 km/h3:19/km0 bpm 979 kcal0 rpm
+Salakallio 8 May 13, 201901:07:3719.18 km17.0 km/h3:31/km0 bpm 828 kcal0 rpm
+Kirjastola May 9, 201900:56:3016.38 km17.4 km/h3:27/km0 bpm 670 kcal0 rpm
+Salakallio Santaoja May 7, 201901:36:1628.16 km17.6 km/h3:24/km0 bpm 1209 kcal0 rpm
+Salakallio Santaoja May 5, 201901:28:0727.18 km18.5 km/h3:14/km0 bpm 1131 kcal0 rpm
+Santaoja May 3, 201901:20:0823.98 km18.0 km/h3:20/km0 bpm 831 kcal0 rpm
+Santaoja Apr 30, 201901:17:2624.15 km18.7 km/h3:12/km0 bpm 1011 kcal0 rpm
+Viljakkala Apr 28, 201901:47:2930.50 km17.0 km/h3:31/km0 bpm 1211 kcal0 rpm
+Santaoja Apr 26, 201901:19:1223.55 km17.8 km/h3:22/km0 bpm 992 kcal0 rpm
+Viljakkala Apr 24, 201901:51:4530.14 km16.2 km/h3:42/km0 bpm 1395 kcal0 rpm
+Santaoja m Apr 22, 201901:18:2724.14 km18.5 km/h3:14/km0 bpm 1008 kcal0 rpm
+Santaoja m8 Apr 19, 201901:17:3224.01 km18.6 km/h3:13/km0 bpm 913 kcal0 rpm
+Santaoja m Apr 17, 201901:20:3923.86 km17.7 km/h3:22/km0 bpm 981 kcal0 rpm
+Santaoja m Apr 15, 201901:28:2423.67 km16.1 km/h3:44/km0 bpm 1021 kcal0 rpm
+Kirjastola tie m Apr 5, 201900:55:5816.15 km17.3 km/h3:27/km0 bpm 581 kcal0 rpm
+Kirjastolan hoodeilla Apr 3, 201900:57:0114.96 km15.7 km/h3:48/km0 bpm 620 kcal0 rpm
+Kirjastola lämpöä 0.5 Nov 19, 201800:53:0416.34 km18.5 km/h3:14/km0 bpm 663 kcal0 rpm
+Viljakkala-Vaskio Nov 17, 201802:11:3638.50 km17.6 km/h3:24/km0 bpm 1614 kcal0 rpm
+Santaoja Nov 15, 201801:17:4623.91 km18.4 km/h3:15/km0 bpm 964 kcal0 rpm
+Santaoja 8 Nov 13, 201801:15:5824.05 km19.0 km/h3:09/km0 bpm 976 kcal0 rpm
+Santaoja Nov 6, 201801:18:2723.94 km18.3 km/h3:16/km0 bpm 964 kcal0 rpm
+Viljakkala-Vaskio Nov 4, 201802:06:3938.50 km18.3 km/h3:17/km0 bpm 1608 kcal0 rpm
+Santaoja 8 Oct 22, 201801:11:5123.98 km20.0 km/h2:59/km0 bpm 974 kcal0 rpm
+Santaoja Oct 17, 201801:16:4323.90 km18.7 km/h3:12/km0 bpm 1000 kcal0 rpm
+Sampaa 8 Oct 15, 201801:28:1427.28 km18.5 km/h3:14/km0 bpm 1128 kcal0 rpm
+Santaoja 8 Oct 13, 201801:12:1424.01 km19.9 km/h3:00/km0 bpm 973 kcal0 rpm
+Santaoja 8 Oct 6, 201801:14:1623.93 km19.3 km/h3:06/km0 bpm 969 kcal0 rpm
+Santaoja Sep 27, 201801:16:3723.85 km18.7 km/h3:12/km0 bpm 961 kcal0 rpm
+Santaoja 8 Sep 25, 201801:12:3223.98 km19.8 km/h3:01/km0 bpm 970 kcal0 rpm
+Santaoja 8 Sep 20, 201801:13:3723.96 km19.5 km/h3:04/km0 bpm 969 kcal0 rpm
+Santaoja 8 Sep 18, 201801:12:0524.01 km20.0 km/h3:00/km0 bpm 975 kcal0 rpm
+Sampaa 8 Sep 16, 201801:25:1327.30 km19.2 km/h3:07/km0 bpm 1121 kcal0 rpm
+Santaoja 8 Sep 10, 201801:07:5524.17 km21.3 km/h2:48/km0 bpm 1005 kcal0 rpm
+Perttu m Sep 8, 201801:54:3137.40 km19.6 km/h3:03/km0 bpm 1630 kcal0 rpm
+Santaoja Sep 6, 201801:10:5723.91 km20.2 km/h2:57/km0 bpm 965 kcal0 rpm
+Santaoja Sep 4, 201801:06:5924.46 km21.9 km/h2:44/km0 bpm 1046 kcal0 rpm
+Sampaa 8 Sep 2, 201801:27:2327.55 km18.9 km/h3:10/km0 bpm 1159 kcal0 rpm
+Santaoja Aug 30, 201801:10:2923.90 km20.3 km/h2:56/km0 bpm 964 kcal0 rpm
+Santaoja 8 Aug 28, 201801:11:1323.96 km20.2 km/h2:58/km0 bpm 962 kcal0 rpm
+Santaoja Aug 26, 201801:11:5824.00 km20.0 km/h2:59/km0 bpm 964 kcal0 rpm
+Sampaa 8 Aug 24, 201801:24:2827.58 km19.6 km/h3:03/km0 bpm 1191 kcal0 rpm
+Santaoja Aug 21, 201801:13:4523.89 km19.4 km/h3:05/km0 bpm 966 kcal0 rpm
+Sampaa 8 Aug 19, 201801:29:2227.65 km18.6 km/h3:13/km0 bpm 1160 kcal0 rpm
+Santaoja Aug 15, 201801:10:2424.58 km21.0 km/h2:51/km0 bpm 1044 kcal0 rpm
+Santaoja 8 Aug 13, 201801:12:3424.37 km20.2 km/h2:58/km0 bpm 1023 kcal0 rpm
+Sampaa 8 Aug 11, 201801:26:3027.55 km19.1 km/h3:08/km0 bpm 1225 kcal0 rpm
+Santaoja Aug 7, 201801:10:0625.58 km21.9 km/h2:44/km0 bpm 1133 kcal0 rpm
+Sampaa 8 Aug 5, 201801:24:2127.26 km19.4 km/h3:05/km0 bpm 1128 kcal0 rpm
+Salakallio 8 Jul 28, 201801:01:3619.88 km19.4 km/h3:05/km0 bpm 861 kcal0 rpm
+Salakallio 8 Jul 25, 201801:00:1520.38 km20.3 km/h2:57/km0 bpm 876 kcal0 rpm
+Santaoja 8 Jul 22, 201801:09:5624.89 km21.3 km/h2:48/km0 bpm 1068 kcal0 rpm
+Sampaa 8 Jul 12, 201801:23:5927.50 km19.7 km/h3:03/km0 bpm 1195 kcal0 rpm
+Santaoja Jul 10, 201801:09:3524.01 km20.7 km/h2:53/km0 bpm 1027 kcal0 rpm
+Sampaa Jul 8, 201801:23:1027.91 km20.1 km/h2:58/km0 bpm 1212 kcal0 rpm
+Santaoja Jul 6, 201801:11:2324.16 km20.3 km/h2:57/km0 bpm 1059 kcal0 rpm
+Santaoja 8 Jul 4, 201801:10:4724.16 km20.5 km/h2:55/km0 bpm 1007 kcal0 rpm
+Santaoja Jul 2, 201801:10:0123.83 km20.4 km/h2:56/km0 bpm 966 kcal0 rpm
+Santaoja Jun 30, 201801:10:5925.09 km21.2 km/h2:49/km0 bpm 1085 kcal0 rpm
+Sampaa 8 Jun 28, 201801:23:2228.92 km20.8 km/h2:53/km0 bpm 1301 kcal0 rpm
+Santaoja 8 Jun 26, 201801:13:1425.27 km20.7 km/h2:53/km0 bpm 1085 kcal0 rpm
+Salakallio Santaoja Jun 24, 201801:22:1427.07 km19.8 km/h3:02/km0 bpm 1127 kcal0 rpm
+Perttu m Jun 17, 201801:59:3837.58 km18.9 km/h3:10/km0 bpm 1654 kcal0 rpm
+Santaoja 8 Jun 14, 201801:11:1224.70 km20.8 km/h2:53/km0 bpm 1140 kcal0 rpm
+Santaoja Jun 12, 201801:11:0324.80 km21.0 km/h2:51/km0 bpm 1108 kcal0 rpm
+Perttu m Jun 10, 201801:56:4837.91 km19.5 km/h3:04/km0 bpm 1706 kcal0 rpm
+Santaoja 8 Jun 8, 201801:07:5124.27 km21.5 km/h2:47/km0 bpm 1045 kcal0 rpm
+Santaoja Jun 5, 201801:16:0623.78 km18.8 km/h3:11/km0 bpm 1005 kcal0 rpm
+Santaoja 8 May 28, 201801:08:3224.65 km21.6 km/h2:46/km0 bpm 1060 kcal0 rpm
+Sampaa 8 May 26, 201801:25:5027.83 km19.4 km/h3:05/km0 bpm 1206 kcal0 rpm
+Santaoja m8 May 24, 201801:13:3524.66 km20.1 km/h2:58/km0 bpm 1064 kcal0 rpm
+Santaoja 8 May 22, 201801:08:0624.06 km21.2 km/h2:49/km0 bpm 1087 kcal0 rpm
+Santaoja 8 May 20, 201801:10:1223.88 km20.4 km/h2:56/km0 bpm 1163 kcal0 rpm
+Santaoja 8 May 17, 201801:13:1024.30 km19.9 km/h3:00/km0 bpm 1013 kcal0 rpm
+Santaoja May 15, 201801:11:4423.97 km20.1 km/h2:59/km0 bpm 995 kcal0 rpm
+Santaoja May 13, 201801:12:4224.06 km19.9 km/h3:01/km0 bpm 986 kcal0 rpm
+Santaoja m May 10, 201801:20:3323.67 km17.6 km/h3:24/km0 bpm 1049 kcal0 rpm
+Santaoja May 8, 201801:13:3924.22 km19.7 km/h3:02/km0 bpm 1032 kcal0 rpm
+Perttu m oikkari May 6, 201801:57:2332.57 km16.6 km/h3:36/km0 bpm 1361 kcal0 rpm
+Santaoja m8 May 4, 201801:18:1024.03 km18.4 km/h3:15/km0 bpm 987 kcal0 rpm
+Santaoja Apr 30, 201801:15:5023.79 km18.8 km/h3:11/km0 bpm 984 kcal0 rpm
+Santaoja m8 Apr 27, 201801:19:3123.98 km18.1 km/h3:18/km0 bpm 974 kcal0 rpm
+Santaoja m Apr 23, 201801:23:1723.49 km16.9 km/h3:32/km0 bpm 978 kcal0 rpm
+Santaoja 8 Apr 20, 201801:22:3923.36 km17.0 km/h3:32/km0 bpm 950 kcal0 rpm
+Santaoja 8 Apr 16, 201801:22:1723.48 km17.1 km/h3:30/km0 bpm 947 kcal0 rpm
+Santaoja Oct 20, 201701:19:5223.88 km17.9 km/h3:20/km0 bpm 945 kcal0 rpm
+Santaoja Oct 18, 201701:16:0123.90 km18.9 km/h3:10/km0 bpm 945 kcal0 rpm
+Santaoja Oct 16, 201701:16:4023.92 km18.7 km/h3:12/km0 bpm 951 kcal0 rpm
+Santaoja Oct 6, 201701:17:0223.87 km18.6 km/h3:13/km0 bpm 952 kcal0 rpm
+Santaoja 8 Oct 4, 201701:15:2424.02 km19.1 km/h3:08/km0 bpm 950 kcal0 rpm
+Santaoja 8 Oct 2, 201701:13:4523.77 km19.3 km/h3:06/km0 bpm 968 kcal0 rpm
+Santaoja 8 Sep 26, 201701:12:1624.05 km20.0 km/h3:00/km0 bpm 951 kcal0 rpm
+Santaoja 8 Sep 24, 201701:10:4324.01 km20.4 km/h2:56/km0 bpm 949 kcal0 rpm
+Santaoja Sep 15, 201701:13:1423.85 km19.5 km/h3:04/km0 bpm 944 kcal0 rpm
+Santaoja 8 Sep 13, 201701:14:2923.98 km19.3 km/h3:06/km0 bpm 953 kcal0 rpm
+Santaoja 8 Sep 11, 201701:11:3223.99 km20.1 km/h2:58/km0 bpm 948 kcal0 rpm
+Santaoja Sep 6, 201701:13:1124.09 km19.8 km/h3:02/km0 bpm 956 kcal0 rpm
+Santaoja Sep 1, 201701:12:5623.99 km19.7 km/h3:02/km0 bpm 953 kcal0 rpm
+Santaoja 8 Aug 29, 201701:12:3224.00 km19.8 km/h3:01/km0 bpm 316 kcal0 rpm
+Perttu m8 Aug 27, 201701:57:1736.97 km18.9 km/h3:10/km0 bpm 1403 kcal0 rpm
+Santaoja Aug 23, 201701:13:4623.96 km19.5 km/h3:04/km0 bpm 947 kcal0 rpm
+Perttu m Aug 20, 201701:51:5237.24 km20.0 km/h3:00/km0 bpm 1532 kcal0 rpm
+Santaoja 8 Aug 18, 201701:11:3924.30 km20.3 km/h2:56/km0 bpm 984 kcal0 rpm
+Santaoja 8 Aug 15, 201701:09:4024.58 km21.2 km/h2:50/km0 bpm 1028 kcal0 rpm
+Santaoja 8 Aug 13, 201701:09:0624.75 km21.5 km/h2:47/km0 bpm 1026 kcal0 rpm
+Santaoja Aug 11, 201701:08:3424.50 km21.4 km/h2:48/km0 bpm 999 kcal0 rpm
+Santaoja 8 Aug 9, 201701:08:3224.42 km21.4 km/h2:48/km0 bpm 996 kcal0 rpm
+Santaoja 8 Aug 2, 201701:14:0224.65 km20.0 km/h3:00/km0 bpm 1004 kcal0 rpm
+Santaoja 8 Jul 31, 201701:06:3624.52 km22.1 km/h2:42/km0 bpm 1027 kcal0 rpm
+Santaoja Jul 28, 201701:09:1324.78 km21.5 km/h2:47/km0 bpm 1022 kcal0 rpm
+Santaoja Jul 26, 201701:08:3824.37 km21.3 km/h2:48/km0 bpm 1009 kcal0 rpm
+Santaoja Jul 18, 201701:07:3924.27 km21.5 km/h2:47/km0 bpm 1004 kcal0 rpm
+Perttu m Jul 16, 201701:49:2737.09 km20.3 km/h2:56/km0 bpm 1529 kcal0 rpm
+Santaoja Jul 14, 201701:09:4324.15 km20.8 km/h2:53/km0 bpm 979 kcal0 rpm
+Santaoja 8 Jul 12, 201701:11:5824.44 km20.4 km/h2:56/km0 bpm 1001 kcal0 rpm
+Perttu m Jul 10, 201701:53:1037.46 km19.9 km/h3:01/km0 bpm 1551 kcal0 rpm
+Santaoja Jul 5, 201701:11:1023.93 km20.2 km/h2:58/km0 bpm 954 kcal0 rpm
+Santaoja 8 Jul 3, 201701:10:4924.17 km20.5 km/h2:55/km0 bpm 983 kcal0 rpm
+Santaoja Jul 1, 201701:05:4024.23 km22.1 km/h2:42/km0 bpm 985 kcal0 rpm
+Santaoja 8 Jun 29, 201701:11:2225.28 km21.2 km/h2:49/km0 bpm 1061 kcal0 rpm
+Santaoja Jun 27, 201701:12:3323.88 km19.7 km/h3:02/km0 bpm 961 kcal0 rpm
+Perttu m Jun 24, 201701:51:0537.38 km20.2 km/h2:58/km0 bpm 1559 kcal0 rpm
+Santaoja Jun 22, 201701:11:4624.55 km20.5 km/h2:55/km0 bpm 1029 kcal0 rpm
+Santaoja Jun 19, 201701:11:3024.30 km20.4 km/h2:56/km0 bpm 1009 kcal0 rpm
+Santaoja Jun 15, 201701:07:0825.33 km22.6 km/h2:38/km0 bpm 1070 kcal0 rpm
+Perttu m Jun 10, 201701:57:5737.70 km19.2 km/h3:07/km0 bpm 1563 kcal0 rpm
+Santaoja Jun 6, 201701:14:0924.50 km19.8 km/h3:01/km0 bpm 1007 kcal0 rpm
+Perttu m Jun 4, 201701:50:4338.40 km20.8 km/h2:53/km0 bpm 1630 kcal0 rpm
+Santaoja 8 May 30, 201701:15:0423.97 km19.2 km/h3:07/km0 bpm 963 kcal0 rpm
+Santaoja m May 28, 201701:09:0624.86 km21.6 km/h2:46/km0 bpm 1041 kcal0 rpm
+Perttu m May 26, 201702:00:0337.13 km18.5 km/h3:14/km0 bpm 1520 kcal0 rpm
+Santaoja m May 24, 201701:09:2524.11 km20.8 km/h2:52/km0 bpm 986 kcal0 rpm
+Santaoja May 22, 201701:11:0724.39 km20.6 km/h2:54/km0 bpm 1011 kcal0 rpm
+Santaoja May 20, 201701:12:4724.49 km20.2 km/h2:58/km0 bpm 1015 kcal0 rpm
+Santaoja May 18, 201701:13:5424.00 km19.5 km/h3:04/km0 bpm 962 kcal0 rpm
+Santaoja May 16, 201701:17:2923.95 km18.5 km/h3:14/km0 bpm 956 kcal0 rpm
+Santaoja May 13, 201701:13:5423.94 km19.4 km/h3:05/km0 bpm 945 kcal0 rpm
+Santaoja May 11, 201701:19:2723.82 km18.0 km/h3:20/km0 bpm 966 kcal0 rpm
+Santaoja May 5, 201701:19:2423.90 km18.1 km/h3:19/km0 bpm 954 kcal0 rpm
+Santaoja May 2, 201701:19:3023.88 km18.0 km/h3:19/km0 bpm 967 kcal0 rpm
+Santaoja Apr 9, 201701:17:4523.87 km18.4 km/h3:15/km0 bpm 960 kcal0 rpm
+Sateessa Kirjastolaan päin Apr 7, 201700:37:1012.05 km19.4 km/h3:05/km0 bpm 483 kcal0 rpm
+Santaoja Apr 2, 201701:30:2323.89 km15.9 km/h3:46/km0 bpm 982 kcal0 rpm
+Santaoja Oct 16, 201601:17:0223.78 km18.5 km/h3:14/km0 bpm 964 kcal0 rpm
+Santaoja Oct 14, 201601:16:4323.89 km18.7 km/h3:12/km0 bpm 956 kcal0 rpm
+Perttu m8 Oct 12, 201602:06:4936.83 km17.4 km/h3:26/km0 bpm 1497 kcal0 rpm
+Santaoja Oct 10, 201601:13:4823.46 km19.1 km/h3:08/km0 bpm 940 kcal0 rpm
+Santaoja Oct 6, 201601:17:3023.88 km18.5 km/h3:14/km0 bpm 953 kcal0 rpm
+Perttu m8 Oct 3, 201602:00:3836.76 km18.3 km/h3:16/km0 bpm 1487 kcal0 rpm
+Santaoja Oct 1, 201601:12:4823.88 km19.7 km/h3:02/km0 bpm 950 kcal0 rpm
+Santaoja Sep 29, 201601:14:0723.94 km19.4 km/h3:05/km0 bpm 948 kcal0 rpm
+Perttu m Sep 27, 201601:54:0936.59 km19.2 km/h3:07/km0 bpm 1464 kcal0 rpm
+Santaoja m Sep 25, 201601:11:0023.84 km20.2 km/h2:58/km0 bpm 956 kcal0 rpm
+Santaoja Sep 23, 201601:11:2823.97 km20.1 km/h2:58/km0 bpm 964 kcal0 rpm
+Perttu m Sep 21, 201601:57:0936.40 km18.6 km/h3:13/km0 bpm 1469 kcal0 rpm
+Santaoja Sep 19, 201601:10:3123.42 km19.9 km/h3:00/km0 bpm 936 kcal0 rpm
+Santaoja Sep 17, 201601:09:4223.95 km20.6 km/h2:54/km0 bpm 958 kcal0 rpm
+Perttu m Sep 15, 201601:55:4137.12 km19.3 km/h3:06/km0 bpm 1539 kcal0 rpm
+Santaoja Sep 13, 201601:12:3423.89 km19.8 km/h3:02/km0 bpm 956 kcal0 rpm
+Salakallio Sep 11, 201601:28:5126.38 km17.8 km/h3:22/km0 bpm 1132 kcal0 rpm
+Santaoja Sep 9, 201601:10:5524.06 km20.3 km/h2:56/km0 bpm 1019 kcal0 rpm
+Perttu m Sep 7, 201601:48:5237.85 km20.8 km/h2:52/km0 bpm 1604 kcal0 rpm
+Santaoja Sep 5, 201601:11:2524.26 km20.4 km/h2:56/km0 bpm 1000 kcal0 rpm
+Santaoja Sep 3, 201601:10:5824.03 km20.3 km/h2:57/km0 bpm 968 kcal0 rpm
+Perttu m Sep 1, 201602:00:2037.42 km18.6 km/h3:13/km0 bpm 1567 kcal0 rpm
+Santaoja Aug 30, 201601:14:1124.13 km19.5 km/h3:04/km0 bpm 983 kcal0 rpm
+Santaoja Aug 28, 201601:08:3524.02 km21.0 km/h2:51/km0 bpm 979 kcal0 rpm
+Perttu m Aug 26, 201602:08:1636.91 km17.3 km/h3:28/km0 bpm 1547 kcal0 rpm
+Santaoja Aug 24, 201601:10:1024.40 km20.8 km/h2:52/km0 bpm 1007 kcal0 rpm
+Santaoja m Aug 22, 201601:12:1024.11 km20.1 km/h2:59/km0 bpm 1001 kcal0 rpm
+Santaoja Aug 20, 201601:09:5524.89 km21.3 km/h2:48/km0 bpm 1036 kcal0 rpm
+Perttu m Aug 18, 201602:02:3336.02 km17.6 km/h3:24/km0 bpm 1473 kcal0 rpm
+Santaoja Aug 16, 201601:17:0323.98 km18.7 km/h3:12/km0 bpm 960 kcal0 rpm
+Santaoja Aug 14, 201601:12:1024.24 km20.2 km/h2:58/km0 bpm 986 kcal0 rpm
+Perttu m8 Aug 11, 201602:00:0337.62 km18.8 km/h3:11/km0 bpm 1549 kcal0 rpm
+Santaoja m Aug 9, 201601:13:0024.20 km19.9 km/h3:01/km0 bpm 993 kcal0 rpm
+Santaoja m Aug 7, 201601:09:5524.15 km20.7 km/h2:53/km0 bpm 1038 kcal0 rpm
+Santaoja m Aug 3, 201601:11:4324.51 km20.5 km/h2:55/km0 bpm 1018 kcal0 rpm
+Perttu m8 Aug 1, 201601:56:3537.61 km19.4 km/h3:05/km0 bpm 1590 kcal0 rpm
+Santaoja Jul 29, 201601:08:3624.24 km21.2 km/h2:49/km0 bpm 1002 kcal0 rpm
+Santaoja m Jul 27, 201601:10:2424.59 km21.0 km/h2:51/km0 bpm 1025 kcal0 rpm
+Santaoja Jul 25, 201601:09:2624.15 km20.9 km/h2:52/km0 bpm 987 kcal0 rpm
+Perttu m8 Jul 23, 201601:52:3237.26 km19.9 km/h3:01/km0 bpm 1537 kcal0 rpm
+Santaoja Jul 16, 201601:10:1923.82 km20.3 km/h2:57/km0 bpm 948 kcal0 rpm
+Santaoja Jul 14, 201601:10:4225.08 km21.3 km/h2:49/km0 bpm 1066 kcal0 rpm
+Perttu Jul 12, 201601:56:3737.37 km19.2 km/h3:07/km0 bpm 1535 kcal0 rpm
+Santaoja Jul 10, 201601:09:5124.33 km20.9 km/h2:52/km0 bpm 995 kcal0 rpm
+Santaoja m8 Jul 8, 201601:10:5524.05 km20.3 km/h2:56/km0 bpm 973 kcal0 rpm
+Perttu Jul 5, 201601:59:4837.11 km18.6 km/h3:13/km0 bpm 1565 kcal0 rpm
+Santaoja Jul 3, 201601:10:5224.22 km20.5 km/h2:55/km0 bpm 991 kcal0 rpm
+Santaoja Jul 1, 201601:08:2624.40 km21.4 km/h2:48/km0 bpm 1000 kcal0 rpm
+Perttu Jun 29, 201601:52:3336.16 km19.3 km/h3:06/km0 bpm 1232 kcal0 rpm
+Santaoja m Jun 27, 201601:07:4923.63 km20.9 km/h2:52/km0 bpm 806 kcal0 rpm
+Santaoja Jun 25, 201601:07:1423.74 km21.2 km/h2:50/km0 bpm 811 kcal0 rpm
+Perttu Jun 22, 201601:48:4236.13 km19.9 km/h3:00/km0 bpm 1231 kcal0 rpm
+Santaoja m Jun 20, 201601:10:0123.64 km20.3 km/h2:57/km0 bpm 806 kcal0 rpm
+Santaoja Jun 17, 201601:10:0623.73 km20.3 km/h2:57/km0 bpm 808 kcal0 rpm
+Perttu Jun 15, 201601:51:2336.17 km19.5 km/h3:04/km0 bpm 1232 kcal0 rpm
+Santaoja Jun 13, 201601:08:5423.67 km20.6 km/h2:54/km0 bpm 807 kcal0 rpm
+Santaoja Jun 11, 201601:11:4923.82 km19.9 km/h3:00/km0 bpm 811 kcal0 rpm
+Santaoja Jun 9, 201601:12:4823.81 km19.6 km/h3:03/km0 bpm 811 kcal0 rpm
+Perttu Jun 7, 201601:51:2236.14 km19.5 km/h3:04/km0 bpm 1231 kcal0 rpm
+Santaoja Jun 5, 201601:09:3423.87 km20.6 km/h2:54/km0 bpm 814 kcal0 rpm
+Santaoja m Jun 3, 201601:08:2823.75 km20.8 km/h2:53/km0 bpm 810 kcal0 rpm
+Santaoja m May 31, 201601:10:0123.71 km20.3 km/h2:57/km0 bpm 808 kcal0 rpm
+Santaoja loppu May 29, 201600:48:5817.15 km21.0 km/h2:51/km0 bpm 585 kcal0 rpm
+Santaoja alku May 29, 201600:10:003.55 km21.3 km/h2:48/km0 bpm 121 kcal0 rpm
+Santaoja May 27, 201601:09:5423.63 km20.3 km/h2:57/km0 bpm 805 kcal0 rpm
+Perttu May 25, 201601:53:0436.14 km19.2 km/h3:07/km0 bpm 1232 kcal0 rpm
+Muurlasta May 23, 201600:54:1317.97 km19.9 km/h3:01/km0 bpm 612 kcal0 rpm
+Sairaalanmäelle May 23, 201600:16:266.01 km21.9 km/h2:44/km0 bpm 205 kcal0 rpm
+Santaoja May 22, 201601:05:3123.68 km21.7 km/h2:46/km0 bpm 810 kcal0 rpm
+Santaoja m May 20, 201601:07:0723.71 km21.2 km/h2:49/km0 bpm 810 kcal0 rpm
+Santaoja May 19, 201601:12:0923.65 km19.7 km/h3:03/km0 bpm 806 kcal0 rpm
+Perttu May 17, 201601:50:0436.41 km19.8 km/h3:01/km0 bpm 1241 kcal0 rpm
+Santaoja m May 12, 201601:06:5423.74 km21.3 km/h2:49/km0 bpm 811 kcal0 rpm
+Santaoja May 10, 201601:08:2323.80 km20.9 km/h2:52/km0 bpm 812 kcal0 rpm
+Perttu May 8, 201601:45:0336.27 km20.7 km/h2:53/km0 bpm 1237 kcal0 rpm
+Santaoja May 5, 201601:11:3423.73 km19.9 km/h3:01/km0 bpm 808 kcal0 rpm
+Perttu May 3, 201601:57:0836.50 km18.7 km/h3:12/km0 bpm 1245 kcal0 rpm
+Santaoja May 1, 201601:12:3123.85 km19.7 km/h3:02/km0 bpm 812 kcal0 rpm
+Santaoja Apr 28, 201601:11:4723.83 km19.9 km/h3:00/km0 bpm 812 kcal0 rpm
+Santaoja Apr 24, 201601:10:1023.91 km20.4 km/h2:56/km0 bpm 815 kcal0 rpm
+Santaoja m Apr 21, 201601:13:2623.83 km19.5 km/h3:04/km0 bpm 812 kcal0 rpm
+Santaoja Apr 18, 201601:15:1923.85 km19.0 km/h3:09/km0 bpm 813 kcal0 rpm
+Santaoja Apr 14, 201601:14:0923.92 km19.4 km/h3:05/km0 bpm 815 kcal0 rpm
+Santaoja m Apr 11, 201601:12:2723.90 km19.8 km/h3:01/km0 bpm 814 kcal0 rpm
+Santaoja Oct 5, 201501:09:2823.87 km20.6 km/h2:54/km0 bpm 814 kcal0 rpm
+Santaoja Sep 29, 201501:11:1123.93 km20.2 km/h2:58/km0 bpm 815 kcal0 rpm
+Santaoja Sep 22, 201501:10:3323.87 km20.3 km/h2:57/km0 bpm 813 kcal0 rpm
+Perttu Sep 20, 201501:45:5036.52 km20.7 km/h2:53/km0 bpm 1246 kcal0 rpm
+Santaoja m Sep 15, 201501:07:2923.97 km21.3 km/h2:48/km0 bpm 819 kcal0 rpm
+Santaoja m Sep 13, 201501:06:0123.86 km21.7 km/h2:46/km0 bpm 817 kcal0 rpm
+Santaoja Sep 8, 201501:11:0423.74 km20.1 km/h2:59/km0 bpm 809 kcal0 rpm
+Santaoja Sep 5, 201501:06:4323.84 km21.5 km/h2:47/km0 bpm 815 kcal0 rpm
+Perttu Aug 31, 201501:48:3036.52 km20.2 km/h2:58/km0 bpm 1244 kcal0 rpm
+Santaoja Aug 27, 201501:08:2023.73 km20.8 km/h2:52/km0 bpm 809 kcal0 rpm
+Santaoja m Aug 25, 201501:09:2523.78 km20.6 km/h2:55/km0 bpm 811 kcal0 rpm
+Santaoja Aug 23, 201501:07:0824.01 km21.5 km/h2:47/km0 bpm 821 kcal0 rpm
+Perttu Aug 21, 201501:48:1236.66 km20.3 km/h2:56/km0 bpm 1249 kcal0 rpm
+Santaoja m Aug 18, 201501:06:2923.88 km21.5 km/h2:47/km0 bpm 817 kcal0 rpm
+Santaoja Aug 16, 201501:05:2623.88 km21.9 km/h2:44/km0 bpm 818 kcal0 rpm
+Perttu Aug 13, 201501:52:4136.61 km19.5 km/h3:04/km0 bpm 1247 kcal0 rpm
+Santaoja Aug 11, 201501:09:2124.02 km20.8 km/h2:53/km0 bpm 819 kcal0 rpm
+Santaoja m Aug 9, 201501:09:1423.94 km20.7 km/h2:53/km0 bpm 816 kcal0 rpm
+Santaoja m8 Aug 6, 201501:08:3024.07 km21.1 km/h2:50/km0 bpm 822 kcal0 rpm
+Santaoja Aug 4, 201501:08:2523.64 km20.7 km/h2:53/km0 bpm 806 kcal0 rpm
+Perttu Aug 2, 201501:45:2836.28 km20.6 km/h2:54/km0 bpm 1237 kcal0 rpm
+Santaoja m8 Jul 31, 201501:08:0023.91 km21.1 km/h2:50/km0 bpm 816 kcal0 rpm
+Santaoja Jul 29, 201501:06:2823.91 km21.6 km/h2:46/km0 bpm 818 kcal0 rpm
+Santaoja bootti loppu Jul 25, 201500:53:4217.93 km20.0 km/h2:59/km0 bpm 611 kcal0 rpm
+Santaoja m bootti alku Jul 25, 201500:10:003.72 km22.3 km/h2:41/km0 bpm 127 kcal0 rpm
+Santaoja renkaankorjauksesta kotio Jul 24, 201500:26:238.90 km20.2 km/h2:57/km0 bpm 303 kcal0 rpm
+Santaoja rengasrikkoon asti Jul 24, 201500:39:0212.45 km19.2 km/h3:07/km0 bpm 424 kcal0 rpm
+Santaoja rengasrikko 2km ennen kotia Jul 22, 201501:05:3122.04 km20.2 km/h2:58/km0 bpm 751 kcal0 rpm
+Santaoja Jul 20, 201501:08:2923.81 km20.8 km/h2:52/km0 bpm 812 kcal0 rpm
+Perttu Jul 18, 201501:49:2336.48 km20.0 km/h2:59/km0 bpm 1243 kcal0 rpm
+Santaoja m8 Jul 12, 201501:15:0924.12 km19.3 km/h3:06/km0 bpm 822 kcal0 rpm
+Santaoja Jul 8, 201501:06:1823.97 km21.7 km/h2:46/km0 bpm 820 kcal0 rpm
+Santaoja m Jul 6, 201501:09:0423.96 km20.8 km/h2:53/km0 bpm 817 kcal0 rpm
+Santaoja Jul 4, 201501:11:3123.93 km20.1 km/h2:59/km0 bpm 815 kcal0 rpm
+Santaoja Jul 1, 201501:09:4323.87 km20.6 km/h2:55/km0 bpm 814 kcal0 rpm
+Santaoja Jun 30, 201501:09:4423.80 km20.5 km/h2:55/km0 bpm 811 kcal0 rpm
+Perttu Jun 27, 201501:58:4136.49 km18.4 km/h3:15/km0 bpm 1246 kcal0 rpm
+Santaoja Jun 23, 201501:14:0224.05 km19.5 km/h3:04/km0 bpm 819 kcal0 rpm
+Perttu Jun 21, 201501:56:2736.53 km18.8 km/h3:11/km0 bpm 1246 kcal0 rpm
+Santaoja m Jun 19, 201501:16:1323.92 km18.8 km/h3:11/km0 bpm 816 kcal0 rpm
+Santaoja m Jun 15, 201501:12:4623.91 km19.7 km/h3:02/km0 bpm 814 kcal0 rpm
+Perttu Jun 11, 201501:56:4336.38 km18.7 km/h3:12/km0 bpm 1241 kcal0 rpm
+Santaoja m Jun 9, 201501:10:5023.84 km20.2 km/h2:58/km0 bpm 812 kcal0 rpm
+Kirjastola m Jun 5, 201500:54:0316.27 km18.1 km/h3:19/km0 bpm 556 kcal0 rpm
+Perttu Jun 2, 201501:58:2736.73 km18.6 km/h3:13/km0 bpm 1254 kcal0 rpm
+Purri May 25, 201501:39:3931.88 km19.2 km/h3:07/km0 bpm 1087 kcal0 rpm
+Kirjastola May 20, 201500:50:4616.34 km19.3 km/h3:06/km0 bpm 557 kcal0 rpm
+Purri m May 19, 201501:42:1331.65 km18.6 km/h3:13/km0 bpm 1080 kcal0 rpm
+Purri May 16, 201501:44:2331.71 km18.2 km/h3:17/km0 bpm 1084 kcal0 rpm
+Purri May 14, 201501:51:3932.10 km17.2 km/h3:28/km0 bpm 1104 kcal0 rpm
+Purri May 10, 201501:41:3231.99 km18.9 km/h3:10/km0 bpm 1091 kcal0 rpm
+Santaoja May 7, 201501:20:0624.01 km18.0 km/h3:20/km0 bpm 822 kcal0 rpm
+Santaoja May 5, 201501:18:1123.98 km18.4 km/h3:15/km0 bpm 819 kcal0 rpm
+Purri May 2, 201501:39:0132.19 km19.5 km/h3:04/km0 bpm 1097 kcal0 rpm
+Santaoja m Apr 27, 201501:17:1724.15 km18.8 km/h3:11/km0 bpm 824 kcal0 rpm
+Santaoja Apr 24, 201501:19:3823.94 km18.0 km/h3:19/km0 bpm 819 kcal0 rpm
+Purri Apr 22, 201501:41:1531.76 km18.8 km/h3:11/km0 bpm 1083 kcal0 rpm
+Purri Apr 18, 201501:34:0731.67 km20.2 km/h2:58/km0 bpm 1079 kcal0 rpm
+Santaoja Apr 15, 201501:12:5323.92 km19.7 km/h3:02/km0 bpm 815 kcal0 rpm
+Tutkimus Salaa Apr 13, 201501:32:1130.29 km19.7 km/h3:02/km0 bpm 1032 kcal0 rpm
+Tutkimus Purri Apr 11, 201501:27:0027.21 km18.8 km/h3:11/km0 bpm 928 kcal0 rpm
+Santaoja Apr 6, 201501:11:0723.22 km19.6 km/h3:03/km0 bpm 791 kcal0 rpm
+Santaoja Mar 18, 201501:17:2323.24 km18.0 km/h3:20/km0 bpm 795 kcal0 rpm
+Kirjastola Mar 16, 201500:59:1716.46 km16.7 km/h3:35/km0 bpm 569 kcal0 rpm
+Santaoja - Kirjastola pehmeetä tietä Mar 11, 201500:56:2516.29 km17.3 km/h3:27/km0 bpm 560 kcal0 rpm
+Santaoja Oct 15, 201401:16:1823.89 km18.8 km/h3:11/km0 bpm 815 kcal0 rpm
+Santaoja Sep 30, 201401:09:5324.07 km20.7 km/h2:54/km0 bpm 821 kcal0 rpm
+Puonti Sep 15, 201401:24:2428.31 km20.1 km/h2:58/km0 bpm 965 kcal0 rpm
+Puonti Sep 12, 201401:28:1829.10 km19.8 km/h3:02/km0 bpm 991 kcal0 rpm
+Puonti Sep 10, 201401:22:1427.79 km20.3 km/h2:57/km0 bpm 947 kcal0 rpm
+Puonti Sep 8, 201401:24:5027.80 km19.7 km/h3:03/km0 bpm 947 kcal0 rpm
+Tutkimus Isokyläntie Sep 5, 201401:34:5730.62 km19.3 km/h3:06/km0 bpm 1043 kcal0 rpm
+Puonti Sep 3, 201401:26:1728.39 km19.7 km/h3:02/km0 bpm 967 kcal0 rpm
+Santaoja Sep 1, 201401:09:5923.61 km20.2 km/h2:57/km0 bpm 805 kcal0 rpm
+Santaoja Aug 24, 201401:07:3523.43 km20.8 km/h2:53/km0 bpm 799 kcal0 rpm
+Santaoja Aug 17, 201401:04:0323.22 km21.7 km/h2:45/km0 bpm 795 kcal0 rpm
+Santaoja Aug 14, 201401:09:5923.29 km20.0 km/h3:00/km0 bpm 793 kcal0 rpm
+Santaoja Aug 12, 201401:02:4921.58 km20.6 km/h2:54/km0 bpm 736 kcal0 rpm
+Santaoja Aug 10, 201401:00:4721.53 km21.2 km/h2:49/km0 bpm 736 kcal0 rpm
+Santaoja Aug 8, 201401:00:4221.51 km21.2 km/h2:49/km0 bpm 735 kcal0 rpm
+Santaoja Aug 4, 201401:04:1521.45 km20.0 km/h2:59/km0 bpm 731 kcal0 rpm
+Santaoja Jul 26, 201401:03:1321.55 km20.4 km/h2:56/km0 bpm 734 kcal0 rpm
+Puonti Jul 17, 201401:14:1326.02 km21.0 km/h2:51/km0 bpm 888 kcal0 rpm
+Puonti Jul 7, 201401:15:3525.99 km20.6 km/h2:54/km0 bpm 886 kcal0 rpm
+Puonti Jul 3, 201401:14:2425.90 km20.9 km/h2:52/km0 bpm 884 kcal0 rpm
+Puonti Jul 1, 201401:18:3826.25 km20.0 km/h2:59/km0 bpm 894 kcal0 rpm
+Puonti Jun 24, 201401:19:2226.27 km19.9 km/h3:01/km0 bpm 895 kcal0 rpm
+Puonti Jun 15, 201401:17:0026.03 km20.3 km/h2:57/km0 bpm 887 kcal0 rpm
+Muurlasta Suolopin kautta Jun 4, 201400:57:4918.96 km19.7 km/h3:02/km0 bpm 646 kcal0 rpm
+Muurlaan Tupurin kautta mettäteitä pitkin Jun 4, 201401:08:2920.86 km18.3 km/h3:16/km0 bpm 713 kcal0 rpm
+Santaoja Jun 2, 201400:59:4721.48 km21.6 km/h2:46/km0 bpm 735 kcal0 rpm
+Santaoja May 23, 201401:03:0721.57 km20.5 km/h2:55/km0 bpm 735 kcal0 rpm
+Puonti May 21, 201401:14:3226.54 km21.3 km/h2:48/km0 bpm 907 kcal0 rpm
+Puonti May 18, 201401:10:0025.99 km22.3 km/h2:41/km0 bpm 892 kcal0 rpm
+Santaoja May 15, 201401:00:3721.79 km21.6 km/h2:46/km0 bpm 745 kcal0 rpm
+Puonti May 13, 201401:15:1926.21 km20.9 km/h2:52/km0 bpm 894 kcal0 rpm
+Puonti May 6, 201401:18:0726.25 km20.2 km/h2:58/km0 bpm 894 kcal0 rpm
+Isokylä Apr 29, 201401:23:5627.73 km19.8 km/h3:01/km0 bpm 944 kcal0 rpm
+Valhoja - Somerontie - metsästysmaja Apr 27, 201401:04:5122.14 km20.5 km/h2:55/km0 bpm 755 kcal0 rpm
+Ikelä Apr 16, 201401:15:5823.81 km18.8 km/h3:11/km0 bpm 812 kcal0 rpm
+Ikelä Oct 14, 201301:14:2423.92 km19.3 km/h3:06/km0 bpm 815 kcal0 rpm
+Ikelä Sep 25, 201301:13:0923.95 km19.7 km/h3:03/km0 bpm 816 kcal0 rpm
+Ikelä Sep 13, 201301:13:0924.15 km19.8 km/h3:01/km0 bpm 823 kcal0 rpm
+Ikelä Sep 9, 201301:14:5724.36 km19.5 km/h3:04/km0 bpm 830 kcal0 rpm
+Vaskio Aug 18, 201301:24:5427.96 km19.8 km/h3:02/km0 bpm 952 kcal0 rpm
+Vaskio Jul 9, 201301:14:3727.98 km22.5 km/h2:39/km0 bpm 962 kcal0 rpm
+Vaskio Jul 2, 201301:16:0727.98 km22.1 km/h2:43/km0 bpm 959 kcal0 rpm
+Vaskio May 19, 201301:13:2128.28 km23.1 km/h2:35/km0 bpm 977 kcal0 rpm
+Muurlasta Kiskontien kautta May 5, 201301:07:3018.33 km16.3 km/h3:40/km0 bpm 637 kcal0 rpm
+Muurlaan Kiskontien kautta May 5, 201300:46:2218.33 km23.7 km/h2:31/km0 bpm 636 kcal0 rpm
+Vaskio Jun 11, 201201:22:5628.42 km20.6 km/h2:55/km0 bpm 969 kcal0 rpm
+Vaskio Jul 4, 201101:14:5928.66 km22.9 km/h2:36/km0 bpm 988 kcal0 rpm
+Kaupungilla Suvikkaantieltä bootti May 22, 201100:30:018.74 km17.5 km/h3:26/km0 bpm 300 kcal0 rpm
+Vaskio May 21, 201101:11:5228.33 km23.7 km/h2:32/km0 bpm 982 kcal0 rpm
+Muurlaan Suvikkaantieltä Kiskontien kautta May 9, 201100:47:1218.82 km23.9 km/h2:30/km0 bpm 654 kcal0 rpm
+Kaupungilla Suvikkaantieltä Apr 25, 201100:43:2213.52 km18.7 km/h3:12/km0 bpm 827 kcal0 rpm
+Vaskio Sep 9, 201001:14:4728.40 km22.8 km/h2:37/km0 bpm 0 kcal0 rpm
+Vaskio GPS pois pelistä jonkun aikaa Aug 16, 201001:12:4925.00 km20.6 km/h2:54/km0 bpm 0 kcal0 rpm
+Salakallio - mettätie - Märy Aug 11, 201000:52:1818.87 km21.6 km/h2:46/km0 bpm 0 kcal0 rpm
+Muurlasta Suvikkaantielle Kiskontien kautta Aug 7, 201000:49:5618.43 km22.1 km/h2:42/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 1, 201000:41:4515.30 km22.0 km/h2:43/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 1, 201000:39:2015.29 km23.3 km/h2:34/km0 bpm 0 kcal0 rpm
+Tuohittu Jun 9, 201001:03:1223.71 km22.5 km/h2:39/km0 bpm 0 kcal0 rpm
+Tuohittu Jun 6, 201001:04:4523.71 km22.0 km/h2:43/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 1, 201000:44:4615.33 km20.6 km/h2:55/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 1, 201000:41:0815.44 km22.5 km/h2:39/km0 bpm 0 kcal0 rpm
+Tuohittu Apr 25, 201001:09:0923.64 km20.5 km/h2:55/km0 bpm 0 kcal0 rpm
+Tuohittu Apr 18, 201001:10:1323.55 km20.1 km/h2:58/km0 bpm 0 kcal0 rpm
+Tuohittu Apr 11, 201001:10:1523.51 km20.1 km/h2:59/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Sep 15, 200900:42:4915.45 km21.6 km/h2:46/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Sep 15, 200900:38:0015.55 km24.6 km/h2:26/km0 bpm 0 kcal0 rpm
+Ylisjärven ympäriajo - Lehtinen - mettätie Sep 13, 200900:42:4114.79 km20.8 km/h2:53/km0 bpm 0 kcal0 rpm
+Ylisjärven ympäriajo - Lehtinen - 110-tie Sep 4, 200900:39:1714.22 km21.7 km/h2:45/km0 bpm 0 kcal0 rpm
+Ylisjärven ympäriajo Aug 12, 200900:32:0411.55 km21.6 km/h2:46/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 1, 200900:41:1915.38 km22.3 km/h2:41/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 1, 200900:37:0515.30 km24.8 km/h2:25/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 24, 200900:39:4315.54 km23.5 km/h2:33/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 24, 200900:38:0515.45 km24.3 km/h2:27/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 22, 200900:40:1215.55 km23.2 km/h2:35/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 22, 200900:38:4315.42 km23.9 km/h2:30/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 17, 200900:36:2215.53 km25.6 km/h2:20/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 17, 200900:43:0415.98 km22.2 km/h2:41/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 12, 200900:45:4415.46 km20.3 km/h2:57/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 12, 200900:36:1015.40 km25.6 km/h2:20/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 8, 200900:41:5815.39 km22.0 km/h2:43/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 8, 200900:41:3915.42 km22.2 km/h2:42/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 2, 200900:37:2815.39 km24.7 km/h2:25/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 2, 200900:37:0415.42 km24.9 km/h2:24/km0 bpm 0 kcal0 rpm
+Noksu - Muurla May 28, 200900:43:5615.46 km21.1 km/h2:50/km0 bpm 0 kcal0 rpm
+Muurla - Noksu May 28, 200900:40:4015.41 km22.8 km/h2:38/km0 bpm 0 kcal0 rpm
+Noksu - Muurla May 18, 200900:44:2015.45 km20.9 km/h2:52/km0 bpm 0 kcal0 rpm
+Muurla - Noksu May 18, 200900:41:1515.43 km22.4 km/h2:40/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 16, 200800:42:3715.16 km21.3 km/h2:48/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 16, 200800:37:2415.34 km24.6 km/h2:26/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 7, 200800:42:2815.51 km21.9 km/h2:44/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 7, 200800:38:5815.50 km23.9 km/h2:30/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 4, 200800:44:3615.38 km20.7 km/h2:53/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 4, 200800:38:2715.30 km23.9 km/h2:30/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jul 1, 200800:41:0715.36 km22.4 km/h2:40/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jul 1, 200800:37:4815.26 km24.2 km/h2:28/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 5, 200800:41:4915.28 km21.9 km/h2:44/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 5, 200800:38:0115.39 km24.3 km/h2:28/km0 bpm 0 kcal0 rpm
+Noksu - Muurla Jun 2, 200800:40:2515.31 km22.7 km/h2:38/km0 bpm 0 kcal0 rpm
+Muurla - Noksu Jun 2, 200800:43:2415.44 km21.3 km/h2:48/km0 bpm 0 kcal0 rpm
+Ylisjärven ympäriajo Apr 25, 200800:34:5711.67 km20.1 km/h2:59/km0 bpm 0 kcal0 rpm
